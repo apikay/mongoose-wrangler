@@ -7,7 +7,7 @@
   "repository": "msmiley/mongoose-wrangler.git",
   "scripts": {
     "docs": "cake docs",
-    "prepublish": "cake build && cake test docs",
+
     "test": "cake build && cake test"
   },
   "devDependencies": {
